@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #414141;
+    color: #d3d7cf;
+}
+
+.center {
+    width: 100%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 5em;
+    text-align: center;
+}
+
+hr {
+    border-color: #87ff87;
+}
